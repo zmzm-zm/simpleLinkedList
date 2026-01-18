@@ -1,0 +1,31 @@
+PROJECT_NAME           = "LinkedList"
+PROJECT_BRIEF          = "链表数据结构实现"
+PROJECT_NUMBER         = 1.0
+OUTPUT_LANGUAGE        = Chinese
+
+INPUT                  = LinkedList.hpp
+RECURSIVE              = YES
+FILE_PATTERNS          = *.cpp *.h *.hpp *.c
+
+OUTPUT_DIRECTORY       = ./docs
+
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+GENERATE_MAN           = NO
+
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+
+SOURCE_BROWSER         = YES
+INLINE_SOURCES         = YES
+
+REFERENCED_BY_RELATION = YES
+REFERENCES_RELATION    = YES
+
+GENERATE_TREEVIEW      = YES
+
+SEARCHENGINE           = YES
+
+WARNINGS               = YES
+WARN_IF_UNDOCUMENTED   = NO

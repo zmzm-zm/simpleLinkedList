@@ -96,7 +96,7 @@ You have two options to view it:
     Benefits:
   1. Comments are quite clear (I think so)
   2. The source code is right there
-  3. The Doxygen-generated documentation is in English, and machine translation may not be ideal
+  3. The Doxygen-generated documentation is in English, and machine translation may not be ideal  
 · Read the Doxygen-generated documentation (recommended for experts)
   But I still recommend reading the source code.
 
